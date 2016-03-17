@@ -18,3 +18,5 @@ input validation : http://webdesign.tutsplus.com/tutorials/how-to-make-floating-
 
 ## HTML AUDIO
 emit/receive : https://github.com/quiet/quiet-js
+
+## OTHERS
