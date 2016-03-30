@@ -1,13 +1,23 @@
 # Web-Style-Guide
 
+## COMMENTS
+http://www.sitepoint.com/how-good-are-your-html-and-css-comments
+
 ## CSS
-8 base rules : http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate  
-class organization : https://css-tricks.com/bem-101/  
-use flexbox : http://flexbox.io/  
-use preprocessor like : http://stylus-lang.com/  
+base rules : http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate  
+class organization : https://css-tricks.com/bem-101/
 textured gradients : http://rentafounder.com/textured-gradients-in-pure-css/  
 transition : https://daveceddia.com/css-transitions-explained  
 stripes : https://css-tricks.com/stripes-css/  
+
+## CSS LAYOUT
+modern : https://rachelandrew.co.uk/presentations/modern-css-layout
+flexbox : https://www.caktusgroup.com/blog/2016/03/07/time-flexbox-first
+flexbox : http://flexbox.io/  
+
+## CSS PREPROCESSOR
+pros : use preprocessor like : http://stylus-lang.com/  
+cons : http://www.456bereastreet.com/archive/201603/why_i_dont_use_css_preprocessors
 
 ## SVG
 inner html : http://fvsch.com/code/svg-icons/how-to/
