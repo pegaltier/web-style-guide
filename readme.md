@@ -6,6 +6,7 @@ habits : http://www.sitepoint.com/how-good-are-your-html-and-css-comments
 ## CSS
 base rules : http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate  
 class organization : https://css-tricks.com/bem-101/  
+flexbox : www.flexboxpatterns.com/home  
 textured gradients : http://rentafounder.com/textured-gradients-in-pure-css/  
 transition : https://daveceddia.com/css-transitions-explained  
 regions : http://www.adobe.com/devnet/archive/html5/articles/css3-regions.html  
@@ -41,8 +42,9 @@ immutable : https://auth0.com/blog/2016/03/23/intro-to-immutable-js/
 
 ## HTML
 input validation : http://webdesign.tutsplus.com/tutorials/how-to-make-floating-input-labels-with-html5-validation--cms-26120  
-html5 elements : http://www.html5accessibility.com/html5elements/
-
+html5 elements : http://www.html5accessibility.com/html5elements/  
+figure elements : http://www.sitepoint.com/quick-tip-the-right-way-to-use-figure-and-figcaption-elements/  
+image lazy : http://krasimirtsonev.com/blog/article/lazy-load-your-images-with-coloor
 
 ## HTML AUDIO
 emit/receive : https://github.com/quiet/quiet-js  
@@ -50,8 +52,16 @@ emit/receive : https://github.com/quiet/quiet-js
 ## VARIOUS CSS/JS/HTML
 waypoint animation : http://www.oxygenna.com/tutorials/scroll-animations-using-waypoints-js-animate-css  
 parallax animation : http://pixelcog.github.io/parallax.js/  
-parallax animation : https://ihatetomatoes.net/how-to-create-a-parallax-scrolling-website/  
-header animation : http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/
-scrollsnap polyfill : https://github.com/ckrack/scrollsnap-polyfill
+parallax animation : https://ihatetomatoes.net/how-to-create-a-parallax-scrolling-website/    
+header animation : http://tympanus.net/codrops/2013/06/06/on-scroll-animated-header/  
+scrollsnap polyfill : https://github.com/ckrack/scrollsnap-polyfill  
+
+
+## FRAMEWORK
+
+modulr : https://decorator.io/modulr/
+webpack1: https://blog.madewithlove.be/post/webpack-your-bags/
+webpack2 : https://css-tricks.com/css-modules-part-2-getting-started
+
 ## OTHERS
 under construction  
